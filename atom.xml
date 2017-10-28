@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>止浅</title>
+  
+  <subtitle>Slow is BETTER than Fast</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xiaoqf.xyz/"/>
+  <updated>2017-10-28T09:22:44.390Z</updated>
+  <id>http://xiaoqf.xyz/</id>
+  
+  <author>
+    <name>xiaoqf96</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://xiaoqf.xyz/2017/10/28/test/"/>
+    <id>http://xiaoqf.xyz/2017/10/28/test/</id>
+    <published>2017-10-28T09:22:44.000Z</published>
+    <updated>2017-10-28T09:22:44.390Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hexo初体验</title>
+    <link href="http://xiaoqf.xyz/2017/10/11/hexo%E5%88%9D%E4%BD%93%E9%AA%8C/"/>
+    <id>http://xiaoqf.xyz/2017/10/11/hexo初体验/</id>
+    <published>2017-10-11T10:52:25.000Z</published>
+    <updated>2017-10-11T11:30:40.198Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、缘起"><a href="#一、缘起" class="headerlink" title="一、缘起"></a>一、缘起</h2><p> 一直想拥有一个独立博客，觉得用起来比较酷。<br> 今年国庆前决定学习编程，一开始学python，目标就是用flask搭一个个人博客。<br> 国庆期间，在刚学了一点python基础语法后，就在知乎看见了一篇介绍用“github+hexo”</p><h2 id="二、配置"><a href="#二、配置" class="headerlink" title="二、配置"></a>二、配置</h2><h3 id="环境：win10-x64"><a href="#环境：win10-x64" class="headerlink" title="环境：win10 x64"></a>环境：win10 x64</h3><p> github+git+ssh密钥<br> 安装node hexo<br> 配置</p><h2 id="三、-踩过的坑"><a href="#三、-踩过的坑" class="headerlink" title="三、 踩过的坑"></a>三、 踩过的坑</h2><p> 这里有几处很坑的地方<br> 仓库名字<br> 配置里面 冒号后要加空格<br> zoomtime： Asia/Shanghai（唯一）#当初以为只需这种格式即可，使用自己的地名，结构导致配置更改后部署会报错，在localhost4000刷新后，没有更改后的效果；<br> foot镜像cdn：（默认使用） 1.googgle插件2.更改为中科大镜像（主题配置里） enable： true。</p><p> 完全小白，等后来学了一些html css之后才勉强看懂</p><h2 id="to-do-list"><a href="#to-do-list" class="headerlink" title="to do list"></a>to do list</h2><pre><code>1. 把重点重新放在学编程知识上2. 边学边整理笔记记录到博客上3. 增加博客头像、编写关于页面  </code></pre><h2 id="ref："><a href="#ref：" class="headerlink" title="ref："></a>ref：</h2><pre><code>简书：http://www.jianshu.com/p/fdbb9aa536bd知乎：设置url：</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;一、缘起&quot;&gt;&lt;a href=&quot;#一、缘起&quot; class=&quot;headerlink&quot; title=&quot;一、缘起&quot;&gt;&lt;/a&gt;一、缘起&lt;/h2&gt;&lt;p&gt; 一直想拥有一个独立博客，觉得用起来比较酷。&lt;br&gt; 今年国庆前决定学习编程，一开始学python，目标就是用flask搭一
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://xiaoqf.xyz/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自用前端学习指南（updating）</title>
+    <link href="http://xiaoqf.xyz/2017/10/09/%E5%89%8D%E7%AB%AF%E8%B5%B7%E6%AD%A5/"/>
+    <id>http://xiaoqf.xyz/2017/10/09/前端起步/</id>
+    <published>2017-10-09T03:40:08.000Z</published>
+    <updated>2017-10-11T11:46:18.740Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="没有选择是完美的"><a href="#没有选择是完美的" class="headerlink" title="没有选择是完美的"></a>没有选择是完美的</h2><p>顾虑：张鑫旭！[www.]</p><p>资料集合</p><p>学习路径<br>（环境搭建+）<br>快速入门： 视频： 书籍：</p><p>暂时就写<br>【一步步来，心急真的没热豆腐吃。】<br>实践检验+<br>基础：<br>提高： 博客、论坛、github、网站<br>求职面试：<br>（待补）<br>关于qq群：</p><!-- 个人健康： 运动、作息、善于利用时间： 博客、群、视频  总是点许多标签，隔段时间重复又看【断网学习、问题琐事集中处理、】心态调节：    -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;没有选择是完美的&quot;&gt;&lt;a href=&quot;#没有选择是完美的&quot; class=&quot;headerlink&quot; title=&quot;没有选择是完美的&quot;&gt;&lt;/a&gt;没有选择是完美的&lt;/h2&gt;&lt;p&gt;顾虑：张鑫旭！[www.]&lt;/p&gt;
+&lt;p&gt;资料集合&lt;/p&gt;
+&lt;p&gt;学习路径&lt;br&gt;（环境搭建
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="http://xiaoqf.xyz/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
